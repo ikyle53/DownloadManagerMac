@@ -7,9 +7,10 @@ This is my first automation project using Python that also uses MacOS's built in
 run the python script.
 
 ### What it does
-The download manager creates folders in your downloads folder and places certain file types within those folders.
-For example it will automatically create an `/Images` folder (even if you delete it) and places any files with the extension
-of `'.png'` in that folder.
+This script creates folders in your downloads folder and places certain file types within those folders.
+For example it will automatically create an `/Images` folder and place any files with the extension
+of `'.png'` in that folder. You can set it to organize your downloads every minute, hour, daily, weekly, monthly, or whenever
+using crontab.
 
 ## Getting started
 
